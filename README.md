@@ -2,52 +2,55 @@
 <h3 align="center">🚀 Passionate Full Stack & Salesforce Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Turning+Ideas+Into+Reality+with+Code!;MERN+Stack+%2B+Salesforce+Developer;Always+Learning+%E2%9C%8C%EF%B8%8F+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Turning+Ideas+Into+Reality+with+Code!;MERN+Stack+%7C+Salesforce+%7C+Java+%7C+React+%7C+Python+%7C+SQL" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **MERN Stack & Salesforce Projects**
+- 🛠️ I’m currently working on **MERN Stack & Salesforce Projects**
 - 🌱 Currently learning **JWT Auth, Cloud Deployment & Advanced MongoDB**
-- 💬 Ask me about anything related to:
-  **Java, JavaScript, React, Salesforce, APIs**
-- 💼 Open to internships, collaborations, and freelance work
-- 📫 Reach me at: **arbazsheikh97821@gmail.com**
-- ⚡ Fun fact: *I turn coffee ☕ into code 💻 and bugs 🐞 into features 🚀*
+- 💬 Ask me about: **Java, JavaScript, React, Salesforce, APIs, SQL, Python**
+- 🤝 Open to **internships, collaborations**, and **freelance work**
+- 📬 Reach me at: [arbazsheikh97821@gmail.com](mailto:arbazsheikh97821@gmail.com)
+- ⚡ Fun fact: *I turn ☕ coffee into 💻 code and 🐞 bugs into 🚀 features*
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🚀 Languages & Frameworks:
+#### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+
+#### 🎨 Frontend & Styling
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
 
-#### 🗃️ Databases:
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 
-#### ☁️ Platforms & DevOps:
+#### 🧰 Tools & IDEs
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
-
-#### 🔧 Tools & IDEs:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+#### ☁️ Deployment Platforms
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
 
 ---
 
@@ -66,12 +69,12 @@
 
 ### 📌 Featured Projects
 
-> Pin these projects on your profile for maximum impact:
+> 📍 Make sure to pin these on your profile.
 
 - 🧠 [`Dictionary`](https://github.com/Arbaz0001/Dictionary) – React App with API, Theme Switcher & Font Selection  
-- 🧾 [`Quize-Task`](https://github.com/Arbaz0001/Quize-Task) – JavaScript quiz with score & question counter  
-- 🆔 [`College-ID`](https://github.com/Arbaz0001/college-ID) – HTML/CSS based ID card generator  
-- 🍽️ [`Resturant-Template`](https://github.com/Arbaz0001/resturant-template) – Static responsive UI
+- 📚 [`Quize-Task`](https://github.com/Arbaz0001/Quize-Task) – JavaScript quiz with score system  
+- 🆔 [`College-ID`](https://github.com/Arbaz0001/college-ID) – HTML/CSS based ID card template  
+- 🍽️ [`Resturant-Template`](https://github.com/Arbaz0001/resturant-template) – Beautiful responsive template
 
 ---
 
@@ -88,4 +91,4 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my GitHub! Let’s connect, build, and grow together.</p>
+<p align="center">✨ Thank you for visiting my profile! Let’s build something great together.</p>
