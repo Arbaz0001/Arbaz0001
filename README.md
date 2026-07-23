@@ -60,7 +60,7 @@
 ---
 
 ## 🚀 Featured Projects
-> (Yahan apne projects ke links add kar dena)
+ 
 
 - **CoinPay** — `Live Demo` | `Repo`
 - **School** — `Live Demo` | `Repo`
